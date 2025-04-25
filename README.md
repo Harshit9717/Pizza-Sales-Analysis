@@ -1,0 +1,1 @@
+Welcome to the Pizza Sales Analysis project! This repository contains a comprehensive data analysis project conducted using SQL. The aim is to derive actionable insights from a pizza sales dataset to help optimize business decisions for a pizza restaurant.
